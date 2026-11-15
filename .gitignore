@@ -1,0 +1,6 @@
+﻿ClienteApp/bin
+ClienteApp/obj
+ClienteApp.Api/bin
+ClienteApp.Api/obj
+ClienteApp.Tests/bin
+ClienteApp.Tests/obj
